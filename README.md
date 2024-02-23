@@ -19,7 +19,7 @@ see the documentations in the forlder doc
 Dowload the zip folder in the release part
 
 ### Unreal project
-To prevent the repo from becoming too large, the ```Content``` folder has been zipped. To launch the project, simply unzip the folder
+To prevent the repo from becoming too large, the ```Content folder``` has been zipped and put in the release part. To launch the project, simply unzip the folder
 
 ## Technology
  - **Engine**: Unreal Engine 4.27
